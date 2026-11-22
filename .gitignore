@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 开发时的预览/截图产物（根目录；assets/ 下的效果图要保留）
+/preview.png
+/shot*.png
+/settings_*.png
+/event_dialog.png
+/menu_crop*.png
+/card_*.png
+/crop_exact.png
+*.log
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
